@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+/bin
+/dev
+/etc
+/lib
+/proc
+/sys
+/tmp
+/usr
+/var
